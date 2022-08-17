@@ -1,0 +1,54 @@
+.heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  #g{
+    color: tomato;
+    font-family: cursive;
+    font-size: 19px;
+  }
+
+  #m{
+    color: tomato;
+    font-family: cursive;
+    font-size: 19px;
+  }
+
+  #v{
+    color: rgb(71, 166, 255);
+    font-family: cursive;
+    font-size: 19px;
+  }
+  
+ 
+  .copy_right_footer{
+    position: fixed;
+    color: cornsilk;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+
+  canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 160px;
+  }
+
+h5{
+    color: rgb(97, 97, 97);
+}
+
+h4{
+    font-family: cursive;
+    font-size: 15px;
+    color: rgb(86, 170, 142);
+}
